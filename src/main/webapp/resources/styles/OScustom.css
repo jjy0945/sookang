@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/earlyaccess/jejugothic.css); 
+h1{
+	font-family: 'Jeju Gothic';
+	font-size: 50px;
+}
+
+.jumbotron, footer{
+        background-color: #4169E1;
+        color: white;
+}
+
+#a{
+	background-color: #4169E1;
+	color: white;
+}
+
+#b{
+	 background-color: #5F87E1;
+}
+
+#c{
+	font-family: 'Jeju Gothic';
+	color: white;
+}
+
+#d{
+	border: 5px solid #5F87E1;
+	
+}
+
+.navbar-nav > li{
+  padding-left:40px;
+  padding-right:40px;
+}
+
+.nav-link:hover {
+    color: #ccc !important;
+}
+
+#d > form > .table > thead > tr{
+	
+	text-align: center;
+}
+
+#d{
+  padding-left:0px;
+  padding-right:0px;
+}
+
+.table{
+	margin-bottom: 0;
+}
+
+#d > form > .table > tbody > tr{
+	
+	text-align: center;
+}
